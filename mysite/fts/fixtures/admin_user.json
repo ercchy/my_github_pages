@@ -1,0 +1,20 @@
+[
+  {
+    "pk": 1, 
+    "model": "auth.user", 
+    "fields": {
+      "username": "admin", 
+      "first_name": "", 
+      "last_name": "", 
+      "is_active": true, 
+      "is_superuser": true, 
+      "is_staff": true, 
+      "last_login": "2012-10-18T10:00:11.642Z", 
+      "groups": [], 
+      "user_permissions": [], 
+      "password": "pbkdf2_sha256$10000$7E3hlWzb8egf$jqlHDv4GjVRk53c2P1ULpkc9gz9pOa46qNvvT6Sijvs=", 
+      "email": "erika@serox.si", 
+      "date_joined": "2012-10-18T08:15:13.870Z"
+    }
+  }
+]
